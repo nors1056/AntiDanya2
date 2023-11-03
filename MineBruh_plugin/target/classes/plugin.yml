@@ -1,0 +1,9 @@
+name: MineBruh_plugin
+version: '$2'
+main: nors1056.MineBruh_plugin.Main
+api-version: '1.19'
+commands:
+  MBcamall:
+    permission: op
+  MBcreateparticle:
+    permission: op
